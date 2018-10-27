@@ -1,4 +1,21 @@
 # Homework Assignment
+NOTE FROM Ana-Maria!
+
+For the first assignment, I created the total() but "the total of an empty cart should be 0" wasn't working. 
+I only commented it in the spec.js to see if it's working without that test.
+My logic was to firstly check if the length of the items is 0 and if it's true, to return the sum 0, and only after that to calculate the sum of the items value. But I'm probably missing something and I can't figure out what.
+
+Anyway, I hope everything else is clear and understandable. 
+Thanks!
+
+
+
+
+
+
+
+
+
 
 This assignment covers the first week of the Intermediate Bootcamp. This repository contains 2 test files, each covering a single task. The order of the tasks does not matter. **You can complete them in any order.**
 
